@@ -1,0 +1,53 @@
+"bonziworld"
+{
+	"base"		"sandbox"
+	"title"		"BonziWORLD 3D"
+	"category"	"other"
+	"menusystem"	"1"
+	"workshopid"	"2693835351"
+	"maps"		"^bzw_"
+
+	"settings"
+	{
+		1
+		{
+			"name"		"sbox_playershurtplayers"
+			"text"		"Players hurt Players"
+			"help"		"If enabled then players can attack eachother"
+			"type"		"CheckBox"
+			"default"	"1"
+		}
+		2
+		{
+			"name"		"bonziworld_enableotherpms"
+			"text"		"Allow other Player Models (Requires Enhanced PMs)"
+			"help"		"If enabled then players can set their playermodels other than just BonziBUDDY"
+			"type"		"CheckBox"
+			"default"	"0"
+		}
+		3
+		{
+			"name"		"gmod_suit"
+			"text"		"Toggle HEV Suit"
+			"help"		"If enabled then Admins will receive the HL2 Suit settings"
+			"type"		"CheckBox"
+			"default"	"0"
+		}
+		4
+		{
+			"name"		"sbox_godmode"
+			"text"		"Toggle Godmode"
+			"help"		"If enabled then players are invulnerable to attacks"
+			"type"		"CheckBox"
+			"default"	"0"
+		}
+		5
+		{
+			"name"		"bonziworld_2donly"
+			"text"		"Use 2D Sprites"
+			"help"		"If enabled then players use 2D textures from the original BonziWORLD"
+			"type"		"CheckBox"
+			"default"	"0"
+		}
+	}
+}

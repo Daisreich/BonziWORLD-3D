@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "bonzis/rover"
+	"$alphatest" 1
+}

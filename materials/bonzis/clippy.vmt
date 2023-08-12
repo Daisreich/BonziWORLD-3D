@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "bonzis/clippy"
+	"$alphatest" 1
+}
